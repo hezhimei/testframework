@@ -1,0 +1,6 @@
+{
+  "test_fixture_assert_skip_01.py::test_soso": true,
+  "test_sassume_11.py::test_simple_assume[0-1]": true,
+  "test_sassume_11.py::test_simple_assume[1-0]": true,
+  "test_sassume_11.py::test_simple_assume[1-1]": true
+}

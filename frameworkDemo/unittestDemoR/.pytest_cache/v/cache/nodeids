@@ -1,0 +1,5 @@
+[
+  "testdemoreport.py::TestClass::test_first",
+  "testdemoreport.py::TestClass::test_second",
+  "testdemoreport.py::TestClass::test_third"
+]

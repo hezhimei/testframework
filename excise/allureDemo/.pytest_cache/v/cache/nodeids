@@ -1,0 +1,5 @@
+[
+  "test_sele_allure.py::test_steps_demo[allure]",
+  "test_sele_allure.py::test_steps_demo[pytest]",
+  "test_sele_allure.py::test_steps_demo[unittest]"
+]

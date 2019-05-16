@@ -1,0 +1,11 @@
+{
+  "test_class_01.py::TestClass::()::test_one": true,
+  "test_class_01.py::TestClass::()::test_two": true,
+  "test_fixture_assert_skip_01.py::test_soso": true,
+  "test_mark_param_list_07.py::test_eval[7*5-30]": true,
+  "test_mark_param_request2_08.py::test_login[login_r2]": true,
+  "test_ordering_09.py::test_02": true,
+  "test_sassume_11.py::test_simple_assume[0-1]": true,
+  "test_sassume_11.py::test_simple_assume[1-0]": true,
+  "test_sassume_11.py::test_simple_assume[1-1]": true
+}

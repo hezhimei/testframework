@@ -1,0 +1,4 @@
+{
+  "testdemoreport.py::TestClass::test_second": true,
+  "testdemoreport.py::TestClass::test_third": true
+}
